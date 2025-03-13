@@ -12,7 +12,7 @@ This repository contains the error analysis of machine-generated subtitles, cond
 ### **Analyzed YouTube Videos**
 The analysis is based on the intro sequences (approximately one minute each) from six YouTube videos from different channels that provide popular science and educational content in German:
 
-- Breaking Lab: *"Wohin mit 1 Million Tonnen Photovoltaik-Schrott?"* URL: https://www.YouTube.com/watch?v=TgAh_Jq8T DI
+- Breaking Lab: *"Wohin mit 1 Million Tonnen Photovoltaik-Schrott?"* URL: https://www.YouTube.com/watch?v=TgAh_Jq8T 
 - Die Da Oben: *"Von der Leyen: Macht sie nen guten Job?"* URL: https://www.YouTube.com/watch?v=FwqK6wGbA5A
 - Doktor Whatson: *"Der Effekt, den (fast) jeder falsch versteht"* URL: https://www.YouTube.com/watch?v=tpVVCQrOdJw
 - Maithink X: *"Fußball & Hirnschäden | Chronisch-Traumatische Enzephalopathie"* URL: https://www.YouTube.com/watch?v=jPx81Y10oE&t=158s
