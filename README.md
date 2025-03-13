@@ -1,6 +1,6 @@
 # Error Analysis of Machine-Generated Subtitles
 
-This repository contains the error analysis of machine-generated subtitles, conducted as part of [Your Thesis or Research Title] at the University of Innsbruck. The dataset and files provided here allow further analysis and reproduction of results related to subtitle quality evaluation, particularly in comparing different subtitle generation models.
+This repository contains the error analysis of machine-generated subtitles, conducted for the research paper "Maschinelle Untertitelung mittels Pipeline- und End-to-End Ansatz. Ein Vergleich von Youtube und Whisper" at the University of Innsbruck. 
 
 ---
 
@@ -10,7 +10,7 @@ This repository contains the error analysis of machine-generated subtitles, cond
   (cf. https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-146053)
 
 ### **Analyzed YouTube Videos**
-The analysis is based on the **intro sequences** (approximately one minute each) from six YouTube videos from different channels that provide popular science and educational content for young audiences:
+The analysis is based on the intro sequences (approximately one minute each) from six YouTube videos from different channels that provide popular science and educational content in German:
 
 - Breaking Lab: *"Wohin mit 1 Million Tonnen Photovoltaik-Schrott?"* URL: https://www.YouTube.com/watch?v=TgAh_Jq8T DI
 - Die Da Oben: *"Von der Leyen: Macht sie nen guten Job?"* URL: https://www.YouTube.com/watch?v=FwqK6wGbA5A
