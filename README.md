@@ -6,7 +6,7 @@ This repository contains the error analysis of machine-generated subtitles, cond
 
 ## Data Description
 
-- `data/analysis.xlsx` → Contains annotated subtitle errors, categorized based on the FAR-Model
+- `analysis.xlsx` → Contains annotated subtitle errors, categorized based on the FAR-Model
   (cf. https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-146053)
 
 ---
