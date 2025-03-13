@@ -18,7 +18,6 @@ The analysis is based on the intro sequences (approximately one minute each) fro
 - Maithink X: *"Fußball & Hirnschäden | Chronisch-Traumatische Enzephalopathie"* URL: https://www.YouTube.com/watch?v=jPx81Y10oE&t=158s
 - MrWissen2Go Geschichte | Terra X: *"‚Altnazis‘ in BRD und DDR: Zweite Karriere trotz NS-Vergangenheit"* URL: https://www.YouTube.com/watch?v=GpqMT88zWlc
 - Sonne, Tod & Sterne: *"Hast du das Zeug für eine Marsmission?"* URL: https://www.YouTube.com/watch?v=VtnwHmabyzo&t=52s
-
 The videos were accessed in December 2024.
 ---
 
@@ -33,7 +32,6 @@ Full license text: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Citation
 
-## Citation
 If you use the error analysis in your research, please cite:
 
 Hof, Lea (2025). *Error Analysis of Machine-Generated Subtitles*.  
@@ -41,21 +39,6 @@ Available at: https://github.com/layfey/automatic-subtitling-youtube-whisper/
 
 ---
 
-## How to Use This Repository
-
-**Download the dataset**  
-   - Click "Code" > "Download ZIP" or use Git:
-     ```
-     git clone https://github.com/layfey/automatic-subtitling-youtube-whisper.git
-     ```
-
-**Open the Excel file**  
-   - The dataset can be analyzed with Excel, LibreOffice, or Python (pandas module).  
-
-
----
-
-## Contact & Contributions
-
+## Contact
 If you have questions or suggestions, feel free to open an issue or contact me via https://www.linkedin.com/in/lea-hof.  
 
